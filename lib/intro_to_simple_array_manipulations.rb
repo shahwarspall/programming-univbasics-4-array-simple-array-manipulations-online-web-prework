@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 def using_push(array, string) 
   array.push(string) 
   end 
@@ -25,7 +25,3 @@ end
 def using_concat(array)
   array.concat"2"
 end
-
-=======
-using_array.push"colors_in_the_rainbow","next_color"
->>>>>>> e374606b8561c315add1bc0edbaeb2d287776daa
